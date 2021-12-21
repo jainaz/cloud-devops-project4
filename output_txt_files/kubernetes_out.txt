@@ -1,5 +1,14 @@
+ankur@DESKTOP-H41HEJF:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "my-ml-app" already exists
 NAME        READY   STATUS    RESTARTS   AGE
-my-ml-app   1/1     Running   0          11m
+my-ml-app   1/1     Running   0          2m43s
 Forwarding from 127.0.0.1:80 -> 80
 Forwarding from [::1]:80 -> 80
 Handling connection for 80
+
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
