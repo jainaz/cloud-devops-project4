@@ -1,0 +1,5 @@
+NAME        READY   STATUS    RESTARTS   AGE
+my-ml-app   1/1     Running   0          11m
+Forwarding from 127.0.0.1:80 -> 80
+Forwarding from [::1]:80 -> 80
+Handling connection for 80
